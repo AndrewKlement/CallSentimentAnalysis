@@ -1,5 +1,8 @@
 # CallSentimentAnalysis
-Speech-Based Sentiment Analysis for Customer Support Calls
+A machine learning application that performs sentiment analysis on customer support call audio using speech-to-text and natural language processing techniques in real time.
 
-## How to start
-to start the app run app.py
+## 🚀 How to Run:
+To start the application, run:
+```
+python app.py
+```
