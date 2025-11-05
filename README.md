@@ -11,3 +11,7 @@ https://binusianorg-my.sharepoint.com/personal/andrew_winarto_binus_ac_id/_layou
 ```
 python app.py
 ```
+### 🎥 Demo Video
+
+https://github.com/user-attachments/assets/21aea86f-d7cf-471c-9db1-829c65e71371
+
